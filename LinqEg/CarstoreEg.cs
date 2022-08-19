@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LinqEg
 {
+    //Sample comment
     public class CarstoreEg
     {
         public string Carname { get; set; }
