@@ -34,7 +34,7 @@ namespace LinqEg
                 Console.WriteLine(item);
             }
         }
-        
+//Hey atul wassup?        
 
     }
 }
